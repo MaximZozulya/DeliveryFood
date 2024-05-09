@@ -1,0 +1,25 @@
+<svg width="25.000000" height="25.000000" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<linearGradient x1="2.236261" y1="22.026457" x2="22.659246" y2="1.603191" id="paint_linear_243_19_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#FFC107"/>
+			<stop offset="0.507000" stop-color="#F44336"/>
+			<stop offset="0.990000" stop-color="#9C27B0"/>
+		</linearGradient>
+		<linearGradient x1="8.028458" y1="16.234116" x2="16.867052" y2="7.395521" id="paint_linear_243_20_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#FFC107"/>
+			<stop offset="0.507000" stop-color="#F44336"/>
+			<stop offset="0.990000" stop-color="#9C27B0"/>
+		</linearGradient>
+		<linearGradient x1="18.577724" y1="5.685096" x2="19.755381" y2="4.507289" id="paint_linear_243_21_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#FFC107"/>
+			<stop offset="0.507000" stop-color="#F44336"/>
+			<stop offset="0.990000" stop-color="#9C27B0"/>
+		</linearGradient>
+	</defs>
+	<path id="Vector" d="M17.13 -0.69L7.76 -0.69C3.44 -0.69 -0.06 2.81 -0.06 7.12L-0.06 16.5C-0.06 20.81 3.44 24.31 7.76 24.31L17.13 24.31C21.44 24.31 24.94 20.81 24.94 16.5L24.94 7.12C24.94 2.81 21.44 -0.69 17.13 -0.69ZM22.6 16.5C22.6 19.51 20.15 21.97 17.13 21.97L7.76 21.97C4.74 21.97 2.29 19.51 2.29 16.5L2.29 7.12C2.29 4.11 4.74 1.65 7.76 1.65L17.13 1.65C20.15 1.65 22.6 4.11 22.6 7.12L22.6 16.5Z" fill="url(#paint_linear_243_19_0)" fill-opacity="1.000000" fill-rule="nonzero"/>
+	<path id="Vector" d="M12.44 5.56C8.99 5.56 6.19 8.36 6.19 11.81C6.19 15.26 8.99 18.06 12.44 18.06C15.89 18.06 18.69 15.26 18.69 11.81C18.69 8.36 15.89 5.56 12.44 5.56ZM12.44 15.72C10.29 15.72 8.54 13.96 8.54 11.81C8.54 9.66 10.29 7.9 12.44 7.9C14.6 7.9 16.35 9.66 16.35 11.81C16.35 13.96 14.6 15.72 12.44 15.72Z" fill="url(#paint_linear_243_20_0)" fill-opacity="1.000000" fill-rule="nonzero"/>
+	<path id="Vector" d="M19.99 5.09C19.99 5.55 19.62 5.92 19.16 5.92C18.7 5.92 18.33 5.55 18.33 5.09C18.33 4.63 18.7 4.26 19.16 4.26C19.62 4.26 19.99 4.63 19.99 5.09Z" fill="url(#paint_linear_243_21_0)" fill-opacity="1.000000" fill-rule="evenodd"/>
+</svg>
